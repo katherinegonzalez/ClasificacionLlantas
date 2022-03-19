@@ -20,7 +20,7 @@ Este es un proyecto desarrollado en Python que tiene como objetivo realizar la c
 
 ## Desarrolladores 😊
 
-Juan Nicolás Soto Rios
-Frank Michael Córdoba Ortega 
-Katherine Xiomar González Santacruz
+Juan Nicolás Soto Rios  
+Frank Michael Córdoba Ortega   
+Katherine Xiomar González Santacruz  
 
