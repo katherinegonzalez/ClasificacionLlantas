@@ -1,6 +1,6 @@
 # Grupo 3 - Sistemas Inteligentes
 
-# Clasificación de estado presión de llantas vehículos a partir de imágenes 🚗 
+# Clasificación de estado de presión de llantas vehículos a partir de imágenes 🚗 
 
 Este es un proyecto desarrollado en Python que tiene como objetivo realizar la clasficiación de llantas de vehículos a partir de imagenes, verificando entre los estados desinflado e inflado.
 
