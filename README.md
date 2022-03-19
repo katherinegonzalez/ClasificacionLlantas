@@ -18,7 +18,7 @@ Este es un proyecto desarrollado en Python que tiene como objetivo realizar la c
 
 [GithubGrupo3-SistemasInteligentes](https://github.com/katherinegonzalez/ClasificacionLlantas)
 
-## Desarrolladores 😊
+## Desarrolladores 💻
 
 Juan Nicolás Soto Rios  
 Frank Michael Córdoba Ortega   
