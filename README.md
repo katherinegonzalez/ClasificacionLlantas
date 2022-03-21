@@ -13,6 +13,7 @@ Este es un proyecto desarrollado en Python que tiene como objetivo realizar la c
 ## Recursos 🚀 
 
 * Base de datos de Kaggle
+* Jupyter Notebook
 
 ## Github repository 📦
 

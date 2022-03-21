@@ -7,3 +7,4 @@ Created on Sat Mar 19 17:04:06 2022
 """
 ################ Sistemas inteligentes ########################
 ####### Clasificación de Llantas a través de imagenes #########
+import numpy as np
