@@ -2,7 +2,7 @@
 
 # Clasificación de estado de presión de llantas de vehículos a partir de imágenes 🚗 
 
-Este es un proyecto desarrollado en Python que tiene como objetivo realizar la clasficiación de llantas de vehículos a partir de imagenes, verificando entre los estados desinflado e inflado.
+Este es un proyecto desarrollado en Python que tiene como objetivo realizar la clasificación de llantas de vehículos a partir de imágenes, verificando entre los estados desinflado e inflado.
 
 ## Librerias 📋
 
