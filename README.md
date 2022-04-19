@@ -15,11 +15,14 @@ Este es un proyecto desarrollado en Python que tiene como objetivo realizar la c
 * Plotly Express
 * TensorFlow
 * Keras
+* Pygad
+* Sklearn-genetic
   
 ## Recursos 🚀 
 
 * Base de datos de Kaggle
 * Jupyter Notebook
+* Google Colab
 
 ## Repositorio de Github 📦
 
